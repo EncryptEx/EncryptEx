@@ -1,5 +1,6 @@
 <h1>👋 Hi, I’m Jaume López</h1>
-I'm a software developer and engineering student at [UPC Barcelona](https://upc.edu), passionate about creating impactful tech solutions and driving innovation in real-world applications. Over the years, I’ve been deeply involved in projects across hackathons and professional work, focused on everything from user experience design to complex data-driven software solutions.
+
+I'm a software developer and engineering student at [UPC BarcelonaTech](https://upc.edu), passionate about creating impactful tech solutions and driving innovation in real-world applications. Over the years, I’ve been deeply involved in projects across hackathons and professional work, focused on everything from user experience design to complex data-driven software solutions.
 
 💻 Currently:
 
