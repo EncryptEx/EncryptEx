@@ -17,16 +17,13 @@ I'm a software developer and engineering student at [UPC BarcelonaTech](https://
 
 - On [myevents.jaumelopez.dev](https://myevents.jaumelopez.dev), you’ll find more about my projects, from hackathons to collaborations in research, like my internship with the Neuroscape Lab at the University of San Francisco.
 
+
 <br>
 <hr>
 <br>
 
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/EncryptEx">
-    <img src="https://github-readme-stats.vercel.app/api?username=EncryptEx&show_icons=true&theme=transparent&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/EncryptEx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=encryptex&hide=shaderlab,Jupyter%20Notebook,hlsl&layout=compact&theme=transparent" alt="Top Languages" />
-  </a>
-</div>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EncryptEx&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EncryptEx&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EncryptEx&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EncryptEx&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EncryptEx&theme=github_dark&utcOffset=2)
