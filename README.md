@@ -1,22 +1,31 @@
 <h1>👋 Hi, I’m Jaume López</h1>
 
-I'm a software developer and engineering student at [UPC BarcelonaTech](https://upc.edu), passionate about creating impactful tech solutions and driving innovation in real-world applications. Over the years, I’ve been deeply involved in projects across hackathons and professional work, focused on everything from user experience design to complex data-driven software solutions.
+I'm a software developer, GitHub Campus Expert, and 3rd-year Informatics Engineering student at [FIB - Facultat d'Informàtica de Barcelona](https://fib.upc.edu), part of [UPC BarcelonaTech](https://upc.edu). I’m passionate about building meaningful tech solutions and exploring the intersection of software engineering, hardware, and real-world impact.
 
 💻 Currently:
 
-- Leading the Webdev Team at [HackUPC](https://hackupc.com), Europe's largest student hackathon, where my team and I develop platforms like the live schedule, event landing, MyHackUPC portal, and our in-house CTF competition platform.
-- Developing my personal website at [jaumelopez.dev](https://jaumelopez.dev), where I showcase my portfolio, projects, and insights into tech, UX, and more.
-- Expanding my skills in probability, statistics, and data analysis, and exploring applications in computer science.
+- 👨‍💻 Leading the Webdev Team at [HackUPC](https://hackupc.com), Europe’s largest student hackathon. I manage development for platforms like the live schedule, landing page, MyHackUPC portal, and our in-house CTF competition platform.
+- 🌐 Building [jaumelopez.dev](https://jaumelopez.dev) — my digital home for portfolio projects, technical writing, and research.
+- 📊 Exploring applications of statistics and data analysis to solve real-world computer science challenges.
+- 🚩 Engaging with the global tech community as a **GitHub Campus Expert**, helping empower student developers and grow local communities.
 
-🏆 Recent Achievements:
+🏆 Recent Highlights:
 
-- Best UX Prize at HackMIT 2024 for "Remember Me," a portable device designed to share digital keepsakes through physical storage.
-- Runner-Up at UABTheHack, for a project optimizing routes for mobile offices across multiple municipalities.
+- 🥇 **BOBST Challenge Winner @ LauzHack 2024**  
+  Built a 3D-printed conveyor belt system with real-time sensors, a Unity-based digital twin, and AI remote control via LLaMA 3.2.  
+  [View Project](https://github.com/EncryptEx/lauzhack-2024-bobst)
 
-📌 Explore My Work:
+- 🌟 **Best UX Prize @ HackMIT 2024**  
+  Created *Remember Me*, a portable device for storing and sharing digital keepsakes offline — blending storytelling, design, and hardware.  
+  [See Demo](https://lnkd.in/dT9QP-Dm)
 
-- On [myevents.jaumelopez.dev](https://myevents.jaumelopez.dev), you’ll find more about my projects, from hackathons to collaborations in research, like my internship with the Neuroscape Lab at the University of San Francisco.
+- 🥈 **Runner-Up @ UABTheHack 2024**  
+  Developed optimized routing software for mobile public service offices across Catalonia.
 
+📌 Want to explore more?
+
+- Hackathon & research work → [myevents.jaumelopez.dev](https://myevents.jaumelopez.dev)
+- LinkedIn → [linkedin.com/in/jaumelopezmolina](https://linkedin.com/in/jaumelopezmolina)
 
 <br>
 <hr>
